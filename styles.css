@@ -1,0 +1,30 @@
+img{
+    width: 400px;
+    height: 400px;
+    position: relative;
+    right: 200px;
+}
+.c1{
+    width: 170px;
+    height: 210px;
+    position: relative;
+    right: 10px;
+}
+.c2{
+    width: 500px;
+    height: 400px;
+    position: relative;
+    right: 20px;
+}
+.c3{
+    width: 500px;
+    height: 300px;
+    position: relative;
+    left: 10px;
+}
+.c4{
+    width: 300px;
+    height: 200px;
+    position: relative;
+    left: 10px;
+}
